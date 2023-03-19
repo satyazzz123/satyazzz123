@@ -1,4 +1,4 @@
-![logo](https://github.com/satyajitbehera/satyazzz123/blob/main/satyabg.png)
+![logo](https://github.com/satyazzz123/satyazzz123/blob/main/satyabg.png)
 
 <h1 align="center">Hey, I am Satyajit Behera</h1>
 <h3 align="center">I am a full stack Web developer (MERN) stack.</h3>
