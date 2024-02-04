@@ -22,7 +22,7 @@ Hello there! 👋 I'm Satyajit, a seasoned Full Stack Developer and Devops engin
 
 ## Let's Connect
 
-I'm always excited to explore new opportunities, collaborate on interesting projects, and connect with fellow tech enthusiasts. Feel free to reach out if you're interested in discussing tech trends, open source initiatives, or potential collaborations!
+I'm always excited to explore new opportunities, collaborate on interesting projects, and connect with fellow tech enthusiasts. Feel free to reach out at- beherasatyajit716@gmail.com if you're interested in discussing tech trends, open source initiatives, or potential collaborations! 
 
 Happy coding! 🚀
 
@@ -31,6 +31,7 @@ Happy coding! 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/satyajit-behera-0522411ba/) 
+
 
 # 💻 Tech Stack:
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ANSIBLE](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
