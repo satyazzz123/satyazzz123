@@ -1,22 +1,42 @@
-![logo](https://github.com/satyazzz123/satyazzz123/blob/main/satyabg.png)
+# About Me
 
-<h1 align="center">Hey, I am Satyajit Behera</h1>
-<h3 align="center">I am a full stack Web developer (MERN) stack.</h3>
+Hello there! 👋 I'm Satyajit, a seasoned Full Stack Developer and Devops engineer with a passion for building robust and scalable software solutions. My journey in the tech world has taken me through various roles, including being an integral part of a dynamic DevOps team.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satyazzz123&label=Profile%20views&color=0e75b6&style=flat" alt="satyazzz123" /> </p>
+## Professional Background
 
-- 💬 Ask me about **React js,Node js**
+🚀 **Full Stack Developer:** I have extensive experience in crafting end-to-end solutions, from designing user-friendly interfaces to implementing robust backend functionalities. My proficiency spans a wide range of technologies and frameworks, ensuring that every layer of a project is well-architected and efficient.
 
-- 📫 How to reach me **beherasatyajit715@gmail.com**
+💻 **DevOps Enthusiast:** As a member of a DevOps team, I've honed my skills in streamlining the development pipeline, optimizing workflows, and ensuring seamless collaboration between development and operations. I thrive on creating and maintaining environments that foster continuous integration and continuous delivery (CI/CD).
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/satyajit-behera-0522411ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/satyajit-behera-0522411ba" height="30" width="40" /></a>
-</p>
+## Open Source Contributions
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+🌐 **CNCF Projects:** I actively contribute to projects within the Cloud Native Computing Foundation (CNCF) ecosystem. My involvement in these projects allows me to stay at the forefront of cloud-native technologies and best practices.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyazzz123&show_icons=true&locale=en&layout=compact" alt="satyazzz123" /></p>
+## Expertise
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyazzz123&" alt="satyazzz123" /></p>
+🐳 **Docker:** I have a deep understanding of containerization using Docker, enabling the packaging and deployment of applications in a consistent and portable manner.
+
+☸️ **Kubernetes (K8s):** My proficiency in Kubernetes empowers me to orchestrate and manage containerized applications at scale, ensuring reliability and scalability in distributed systems.
+
+🐹 **Golang:** I have a strong command of the Go programming language, leveraging its simplicity and efficiency for building high-performance applications and microservices.
+
+## Let's Connect
+
+I'm always excited to explore new opportunities, collaborate on interesting projects, and connect with fellow tech enthusiasts. Feel free to reach out if you're interested in discussing tech trends, open source initiatives, or potential collaborations!
+
+Happy coding! 🚀
+
+ 
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/satyajit-behera-0522411ba/) 
+
+# 💻 Tech Stack:
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ANSIBLE](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=satyazzz123&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
