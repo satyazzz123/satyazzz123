@@ -270,7 +270,7 @@ I'm especially interested in **backend-heavy roles involving TypeScript or Pytho
 
 # 📫 Connect
 
-* 💼 LinkedIn — [Connect with me]([https://www.linkedin.com/](https://www.linkedin.com/in/satyajit-behera-0522411ba/))
+* 💼 LinkedIn — [Connect with me](https://www.linkedin.com/in/satyajit-behera-0522411ba/)
 * 🐙 GitHub — You're already here 😄
 * 🌐 Open to interesting **AI / Backend / Infrastructure** opportunities
 
